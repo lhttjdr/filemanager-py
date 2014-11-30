@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CKedit CKFinder for Python</title>
+        <script src="/static/js/jquery-1.8.3.min.js" type="text/javascript" language="javascript"></script> 
+        <script src="/static/ckeditor/ckeditor.js" type="text/javascript" language="javascript" ></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                if(false == CKEDITOR.env.isCompatible){
+                    alert("Your broswer is not supported by CKEDITOR offcially! Now, it will run under an unstable state.");
+                    CKEDITOR.env.isCompatible = true;
+                }
+                CKEDITOR.replace( 'ckeditor', {
+                    filebrowserBrowseUrl : '/browser',  
+                    filebrowserImageBrowseUrl : '/browser?type=Images',  
+                    filebrowserFlashBrowseUrl : '/browser?type=Flash'
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <textarea rows="10" cols="130" name="ckeditor" id="ckeditor"></textarea>
+    </body>
+</html>

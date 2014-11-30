@@ -1,0 +1,106 @@
+[Sep-19-14 10:07:08]##enableLog - Log enabled (in /log/filemanager.log file)
+[Sep-19-14 10:07:09]##__init__ self.doc_root value C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/
+[Sep-19-14 10:07:09]##__init__ self.separator value upload
+[Sep-19-14 10:17:42]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Sep-19-14 10:19:12]#127.0.0.1#error - error message : 无效变量 name.
+[Sep-19-14 10:19:17]#127.0.0.1#addfolder - adding folder C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/90/My_folder/697
+[Sep-19-14 10:39:21]##enableLog - Log enabled (in /log/filemanager.log file)
+[Sep-19-14 10:39:21]##__init__ self.doc_root value C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/
+[Sep-19-14 10:39:21]##__init__ self.separator value upload
+[Sep-19-14 10:39:32]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Sep-19-14 10:39:38]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Sep-19-14 10:39:42]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Sep-19-14 10:39:42]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/2011_64x64px.jpg
+[Sep-19-14 10:39:42]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/67899_64x64px.jpg
+[Sep-19-14 10:39:47]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Sep-19-14 10:39:50]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Sep-19-14 10:39:54]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Sep-19-14 10:39:54]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/2011_64x64px.jpg
+[Sep-19-14 10:39:54]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/67899_64x64px.jpg
+[Sep-19-14 10:39:55]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Sep-19-14 10:39:56]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/2011_64x64px.jpg
+[Sep-19-14 10:39:56]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/test/67899_64x64px.jpg
+[Sep-19-14 10:40:10]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Oct-03-14 21:21:43]##enableLog - Log enabled (in /log/filemanager.log file)
+[Oct-03-14 21:21:44]##__init__ self.doc_root value C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/
+[Oct-03-14 21:21:44]##__init__ self.separator value upload
+[Oct-03-14 21:22:57]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/90/20110818182001_dRhzJ_64x64px.jpg
+[Oct-03-14 21:23:14]#127.0.0.1#move - moving C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/90/20110818182001_dRhzJ.jpg to directory C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/
+[Oct-03-14 21:23:14]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/20110818182001_dRhzJ_64x64px.jpg
+[Oct-03-14 21:23:32]#127.0.0.1#rename - renaming C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/20110818182001_dRhzJ.jpg to C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/2011233.jpg
+[Oct-03-14 21:23:32]#127.0.0.1#get_thumbnail - generating thumbnail :  C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/_thumbs/dht/hgj/2011233_64x64px.jpg
+[Oct-03-14 21:23:46]#127.0.0.1#download - downloading C:/Users/lhttjdr/Desktop/filemanager-tornado/static/upload/dht/hgj/2011233.jpg
+[Nov-30-14 06:57:11]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 06:57:11]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 06:57:11]##__init__ self.separator value upload
+[Nov-30-14 06:57:45]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 06:57:45]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 06:57:45]##__init__ self.separator value upload
+[Nov-30-14 06:58:16]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 06:58:41]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 06:58:41]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 06:58:41]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 06:58:59]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/hgj/2011233_64x64px.jpg
+[Nov-30-14 06:59:12]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 06:59:18]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 06:59:32]#127.0.0.1#delete - deleting thumbnail file /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/...jpg_64x64px
+[Nov-30-14 06:59:32]#127.0.0.1#delete - deleting file /home/tjdr/Documents/FileManager-in-Python/static/upload/...jpg
+[Nov-30-14 06:59:33]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 06:59:45]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 06:59:46]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 06:59:46]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 07:00:42]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 07:00:42]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 07:00:42]##__init__ self.separator value upload
+[Nov-30-14 07:01:16]#127.0.0.1#add - adding file 494b7c1131c851b6aa8aa2772621272f.jpg into /home/tjdr/Documents/FileManager-in-Python/static/upload/hyctjgku/
+[Nov-30-14 07:01:17]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/hyctjgku/494b7c1131c851b6aa8aa2772621272f_64x64px.jpg
+[Nov-30-14 07:01:25]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/hyctjgku/494b7c1131c851b6aa8aa2772621272f_64x64px.jpg
+[Nov-30-14 07:01:37]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/hyctjgku/494b7c1131c851b6aa8aa2772621272f_64x64px.jpg
+[Nov-30-14 07:01:43]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 07:01:43]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 07:01:43]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 07:01:49]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/hgj/2011233_64x64px.jpg
+[Nov-30-14 07:05:08]#127.0.0.1#add - adding file ..j.png into /home/tjdr/Documents/FileManager-in-Python/static/upload/dht/
+[Nov-30-14 07:05:08]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/..j_64x64px.png
+[Nov-30-14 07:05:57]#127.0.0.1#rename - renaming /home/tjdr/Documents/FileManager-in-Python/static/upload/dht/..j.png to /home/tjdr/Documents/FileManager-in-Python/static/upload/dht/nagisa.png
+[Nov-30-14 07:05:57]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/nagisa_64x64px.png
+[Nov-30-14 07:06:05]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/nagisa_64x64px.png
+[Nov-30-14 07:06:18]#127.0.0.1#download - downloading /home/tjdr/Documents/FileManager-in-Python/static/upload/dht/nagisa.png
+[Nov-30-14 07:29:00]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 07:29:05]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 07:29:05]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 07:29:05]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 07:29:08]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/nagisa_64x64px.png
+[Nov-30-14 07:29:08]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/hyctjgku/494b7c1131c851b6aa8aa2772621272f_64x64px.jpg
+[Nov-30-14 07:29:10]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 07:29:10]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 07:29:10]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 08:19:31]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 08:27:05]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 08:27:05]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 08:27:05]##__init__ self.separator value upload
+[Nov-30-14 08:31:42]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 08:31:42]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 08:31:42]##__init__ self.separator value upload
+[Nov-30-14 08:59:46]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 08:59:46]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 08:59:46]##__init__ self.separator value upload
+[Nov-30-14 09:00:12]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 09:00:21]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
+[Nov-30-14 09:00:21]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 09:00:21]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 09:00:22]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/hyctjgku/494b7c1131c851b6aa8aa2772621272f_64x64px.jpg
+[Nov-30-14 09:00:24]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/dht/nagisa_64x64px.png
+[Nov-30-14 09:05:10]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 09:05:10]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 09:05:10]##__init__ self.separator value upload
+[Nov-30-14 09:15:43]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 09:15:43]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 09:15:43]##__init__ self.separator value upload
+[Nov-30-14 09:23:01]##enableLog - Log enabled (in /log/filemanager.log file)
+[Nov-30-14 09:23:01]##__init__ self.doc_root value /home/tjdr/Documents/FileManager-in-Python/static/upload/
+[Nov-30-14 09:23:01]##__init__ self.separator value upload
+[Nov-30-14 09:24:03]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test_64x64px.jpg
+[Nov-30-14 09:24:17]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/67899_64x64px.jpg
+[Nov-30-14 09:24:17]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/2011_64x64px.jpg
+[Nov-30-14 09:24:17]#127.0.0.1#get_thumbnail - generating thumbnail :  /home/tjdr/Documents/FileManager-in-Python/static/upload/_thumbs/test/gkhjg_64x64px.gif
